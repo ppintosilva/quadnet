@@ -1,20 +1,18 @@
 
-# bookbadger
+# quadnet
 
 <!-- badges: start -->
-[![CRAN status](https://www.r-pkg.org/badges/version/bookbadger)](https://CRAN.R-project.org/package=bookbadger)
-[![R build status](https://github.com/ppintosilva/bookbadger/workflows/R-CMD-check/badge.svg)](https://github.com/ppintosilva/bookbadger/actions)
-[![Codecov test coverage](https://codecov.io/gh/ppintosilva/bookbadger/branch/master/graph/badge.svg)](https://codecov.io/gh/ppintosilva/bookbadger?branch=master)
+[![R build status](https://github.com/ppintosilva/quadnet/workflows/R-CMD-check/badge.svg)](https://github.com/ppintosilva/quadnet/actions)
 <!-- badges: end -->
 
-The goal of bookbadger is to ...
+The goal of quadnet is to ...
 
 ## Installation
 
-You can install the released version of bookbadger from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of quadnet from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-install.packages("bookbadger")
+install.packages("quadnet")
 ```
 
 ## Example
@@ -22,7 +20,7 @@ install.packages("bookbadger")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(bookbadger)
+library(quadnet)
 ## basic example code
 ```
 
