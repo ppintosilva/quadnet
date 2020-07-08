@@ -1,0 +1,21 @@
+Type: Package
+Package: quadnet
+Title: Build, analyse and visualise QuadTree road network models
+Version: 0.0.0.9000
+Author: Pedro Pinto da Silva
+Maintainer: Pedro Pinto da Silva <ppintodasilva@gmail.com>
+Description: Generate random road networks using the QuadTree model.
+License: GPL-3
+Imports: 
+    rlang (>= 0.1.2),
+    tibble
+Suggests: 
+    roxygen2,
+    testthat,
+    covr
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+URL: https://github.com/ppintosilva/quadnet
+BugReports: https://github.com/ppintosilva/quadnet/issues
