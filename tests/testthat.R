@@ -1,4 +1,4 @@
 library(testthat)
-library(bookbadger)
+library(quadnet)
 
-test_check("bookbadger")
+test_check("quadnet")
