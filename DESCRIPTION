@@ -8,11 +8,13 @@ Description: Generate random road networks using the QuadTree model.
 License: GPL-3
 Imports: 
     rlang (>= 0.1.2),
-    tibble
+    tibble,
+    vctrs,
+    glue,
+    assertr
 Suggests: 
     roxygen2,
-    testthat,
-    covr
+    testthat
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
